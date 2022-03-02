@@ -5,6 +5,7 @@ pluginManagement {
         mavenCentral()
         gradlePluginPortal()
         maven { url 'https://maven.google.com' }
+        maven { url "https://jitpack.io" }
     }
 }
 dependencyResolutionManagement {
@@ -14,6 +15,7 @@ dependencyResolutionManagement {
         mavenCentral()
         gradlePluginPortal()
         maven { url 'https://maven.google.com' }
+        maven { url "https://jitpack.io" }
     }
 }
 rootProject.name = "DreamTeam"
