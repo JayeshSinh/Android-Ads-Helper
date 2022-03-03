@@ -78,7 +78,7 @@ afterEvaluate {
 
                 groupId = 'com.github.JayeshSinh'
                 artifactId = 'Android-Ads-Helper'
-                version = '1.0.2'
+                version = '1.0.3'
             }
         }
     }
